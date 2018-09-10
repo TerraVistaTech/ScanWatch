@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScanWatch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilenameFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*.PDF</Value>
+    </Setting>
+    <Setting Name="ScanDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\_CLIENT_ID</Value>
+    </Setting>
+    <Setting Name="MaxWaitSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="AttemptOpenOnCreate" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
